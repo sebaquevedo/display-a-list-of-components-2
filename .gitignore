@@ -1,0 +1,41 @@
+# Node.js
+node_modules/
+package-lock.json
+yarn.lock
+
+# Angular build outputs
+dist/
+out-tsc/
+
+# Environment files
+src/environments/*.ts
+
+# Logs and debugging
+*.log
+*.trace
+*.map
+
+# IDEs and editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.bak
+*.backup
+
+# Coverage reports
+coverage/
+
+# Dependency graphs and tooling artifacts
+.npm/
+npm-debug.log*
+.eslintcache
+.angular/cache/
+.angular/tsconfig.project.json
