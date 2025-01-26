@@ -27,3 +27,8 @@ In this challenge, we display multiple instances of our `MovieItemComponent`.
 This is an example of what the functionality should look like for the completed exercise. If you’d like to mimic this style, feel free to do so, but it is not required.
 
 ![Finished app in this challenge](https://images.certificates.dev/chapter12-screenshot.png)
+
+## Added an attirbute directive on standalone component as experiment
+
+Added a yellow highlight through directive, imported on a standalone component.
+
